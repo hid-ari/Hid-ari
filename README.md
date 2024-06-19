@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hid-ari
+- 👋 Hi, I’m Hideki Ariyama
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Java
 - 📫 How to reach me ariyamahideki1@gmail.com
