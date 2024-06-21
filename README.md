@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Hideki Ariyama
+- 🦝 I am using github to save my documents and upload projects.
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Java
 - 📫 How to reach me ariyamahideki1@gmail.com
